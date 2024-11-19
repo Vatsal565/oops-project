@@ -1,0 +1,4 @@
+TrainID,Source,Destination,TrainName,TotalSeats
+T123,Surat,Delhi,Rajdhani Express,5
+T124,Mumbai,Pune,Deccan Queen,3
+T125,Chennai,Bangalore,Shatabdi Express,4
